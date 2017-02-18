@@ -10,7 +10,7 @@ A game made for a game design class.
           (_____|                    |_|                
 
 Programmer: Megan Bond
-Contact Me: bondmegan@csu.fullerton.edu
+Contact Me: bond_megan@hotmail.com
 Class & A#: CPSC 386 Final Project
 
 
